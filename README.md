@@ -1,4 +1,4 @@
-# 🧠 New Year Resolution Predictor (ML)
+# 🚀 New Year Resolution Predictor (ML)
 
 Predict whether someone will keep their New Year resolution using simple lifestyle habits like sleep, study, exercise, and screen time.
 
